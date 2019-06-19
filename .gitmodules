@@ -1,3 +1,6 @@
 [submodule "gutenberg-mobile"]
 	path = gutenberg-mobile
 	url = git@github.com:wordpress-mobile/gutenberg-mobile.git
+[submodule "plugins/gutenberg-plugin-hello-world"]
+	path = plugins/gutenberg-plugin-hello-world
+	url = git@github.com:wordpress-mobile/gutenberg-plugin-hello-world.git
